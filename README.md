@@ -17,7 +17,7 @@
 
 ### 📬 Find me around the web
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/your-username" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -36,7 +36,7 @@
 
 ### 🛠️ Technologies & Skills
 
-<p align="left">
+<p align="center">
   <strong>Languages:</strong><br>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL"/>
 </p>
-<p align="left">
+<p align="center">
   <strong>Backend & Frontend:</strong><br>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
@@ -56,7 +56,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
 </p>
-<p align="left">
+<p align="center">
   <strong>Game Development:</strong><br>
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" alt="Unity"/>
   <img src="https://img.shields.io/badge/Godot-478CB0?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot"/>
