@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ritesh</h1>
+<h1 align="center">Hi, I'm Ritesh</h1>
 <h3 align="center">A Web & Game Developer from IIT Roorkee </h3>
 
 <p align="center">
@@ -18,7 +18,7 @@
 ### 📬 Find me around the web
 
 <p align="center">
-  <a href="https://linkedin.com/in/ritesh-garhwal-59a1b7386/" target="_blank">
+  <a href="www.linkedin.com/in/ritesh-garhwal" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:riteshgadwalv2@gmail.com" target="_blank">
@@ -29,8 +29,6 @@
   </a>
 </p>
 <br>
-
-*(Don't forget to update the LinkedIn link!)*
 
 ---
 
@@ -62,7 +60,6 @@
   <img src="https://img.shields.io/badge/Godot-478CB0?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot"/>
   <img src="https://img.shields.io/badge/Pygame-61A344?style=for-the-badge&logo=pygame&logoColor=white" alt="Pygame"/>
 </p>
-*(Skills sourced from)*
 
 ---
 
